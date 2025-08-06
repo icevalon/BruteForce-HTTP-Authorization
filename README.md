@@ -1,7 +1,7 @@
-#Bruteforce HTTP `Basic` Authentication method
+# Bruteforce HTTP `Basic` Authentication method
 
 
-##Simple clean bash script to bruteforce HTTP Basic passwords.
+## Simple clean bash script to bruteforce HTTP Basic passwords.
 
 
 How it works:
